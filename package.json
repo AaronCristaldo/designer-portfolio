@@ -2,7 +2,7 @@
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://aaroncristaldo.github.io/webApp",
+  "homepage": "https://aaroncristaldo.github.io/designer-portfolio",
 
   "scripts": {
     "dev": "vite",

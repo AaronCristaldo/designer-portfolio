@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/webApp/', // 👈 cambia esto
+  base: '/designer-portfolio/', // 👈 cambia esto
   plugins: [vue()]
 })
